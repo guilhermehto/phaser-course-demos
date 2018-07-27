@@ -4,6 +4,8 @@ This repository contains all the games used on the upcoming Phaser 3 Course.
 
 All games were developed using [Phaser](https://github.com/photonstorm/phaser).
 
+Most of the assets used on games are from [Kenney](https://kenney.nl).
+
 ## Games
 
   - Fish Catcher
